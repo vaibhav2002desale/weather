@@ -1,0 +1,77 @@
+.container-fluids{
+    position: absolute;
+    background-color:lightseagreen;
+    height: 400px;
+    width: 30%;
+    margin-top: 10%;
+    margin-left: 25%;
+    border-radius: 15px;
+
+}
+#cityinpute{
+    height: 40%;
+    width: 60%;
+    color: black;
+    size: 60px;
+    padding: 15px;
+}
+
+.inputs{
+    margin-top: 15%;
+    margin-left: 20%;
+
+}
+#add{
+    background-color: orange;
+    
+   
+}
+#add:hover{
+    counter-reset: none;
+    color: darkgreen;
+
+}
+
+.display{
+    margin-top: 8%;
+    margin-left: 15%;
+
+}
+#cityoutput{
+    color: black;
+    margin-left: 10%;
+
+    font-size: 25px;
+}
+#cityoutput:hover{
+    counter-reset: none;
+    color: red;
+}
+#description{
+    font-size: 20px;
+    color: black;
+}
+#description:hover{
+    counter-reset: none;
+    color: blue;
+}
+#temp{
+    font-size: 20px;
+    color: black;
+
+}
+#temp:hover{
+    counter-reset: none;
+    color: darkgreen;
+
+}
+#wind{
+    font-size: 20px;
+    color: black ;
+
+}
+#wind:hover{
+    counter-reset: none;
+    color: darkorange;
+
+}
